@@ -11,4 +11,6 @@
 ### Summary
 ![Pyber Fare Graph](https://github.com/copo6953/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 * Here are three recommendations to address the disparities among city types dipicted in the graph above:
-1) 
+1) PyBer should run a driver promotion that can only be accessed in rural areas.
+2) PyBer should run a marketing campaign in rural areas to raise customer awareness.
+3) PyBer should also run the above recommendations in suburban areas.
