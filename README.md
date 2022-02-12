@@ -9,6 +9,6 @@
 * Rural cities are also first in average fare per driver ($55.49), followed by Suburban ($39.50) and Urban ($16.57)
 ![Pyber Summary](https://github.com/copo6953/PyBer_Analysis/blob/main/analysis/Pyber_Summary_Df.png)
 ### Summary
-![Pyber Fare Graph](https://github.com/copo6953/PyBer_Analysis/blob/main/analysis/Pyber_Summary_Df.png)
+![Pyber Fare Graph](https://github.com/copo6953/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 * Here are three recommendations to address the disparities among city types dipicted in the graph above:
 1) 
